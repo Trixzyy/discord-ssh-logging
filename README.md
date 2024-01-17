@@ -38,7 +38,7 @@ This Bash script is designed to be added to `/sbin/` and made executable. It int
 5. **Restart SSH Service:**
    - Restart the SSH service for changes to take effect:
      ```bash
-     sudo service ssh restart
+     sudo service sshd restart
      ```
 
 ## Usage

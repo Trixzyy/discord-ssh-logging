@@ -6,6 +6,9 @@ This script enhances the functionality of Alexander Henderson's original script 
 
 This Bash script is designed to be added to `/sbin/` and made executable. It integrates with the SSH PAM (Pluggable Authentication Modules) to log SSH session events, such as login and logout, to a Discord channel through a webhook.
 
+## Preview
+![Preview GIF](https://s.tigerlake.xyz/r/brave_m3hM2tyzn0.gif?compress=false)
+
 ## Installation
 
 1. **Copy the Script:**
